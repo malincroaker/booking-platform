@@ -1,4 +1,4 @@
 def main():
-    print("Booking Platform")
+    return "Booking Platform"
 if __name__ == "__main__":
-    main()
+    print(main())
